@@ -1,0 +1,58 @@
+* {
+    font-family: sans-serif;
+}
+body {
+    background-image: url("desert.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    height: 100%;
+}
+.Eric {
+    object-fit: cover;
+    margin-top: 50px;
+    width: 20%;
+    margin-left: 15%;
+    height: 400px;
+}
+.aboutMe {
+    text-align: center;
+    height: 100%;
+    padding: 40px;
+    box-sizing: border-box;
+    width: 50%;
+    margin-right: 15%;
+    float: right;
+    background: whitesmoke;
+}
+.I {
+    border-top: #222 solid 2px;
+    text-align: left;
+}
+h1 {
+    border-top: #222, solid, 2px;
+}
+h2 {
+    text-align: center;
+}
+ol {
+    text-align: left;
+    border-top: #222 solid 2px;
+    border-bottom: #222 solid 2px;
+}
+.Skills {
+    padding: 0;
+    display: inline-block;
+    width: 25%;
+    box-sizing: border-box;
+    text-align: center;
+}
+.Skills img {
+    margin-right: 0;
+    /* filter: invert(100%); */
+    height: 40px;
+    width: 40px;
+    /* padding: 50px;
+    border-radius: 100px;
+    background: linear-gradient(#F3E5F5,#CE93D8 );
+} */
